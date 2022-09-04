@@ -1,7 +1,6 @@
-package com.mycompany.taller3;
+package com.mycompany.workshop3;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 /**
  *

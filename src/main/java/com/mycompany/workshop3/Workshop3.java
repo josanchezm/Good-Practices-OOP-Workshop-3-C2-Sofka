@@ -1,9 +1,8 @@
-package com.mycompany.taller3;
+package com.mycompany.workshop3;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Date;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
@@ -12,7 +11,7 @@ import java.util.Scanner;
  * Application that manages a library of songs
  * @author Jaime Sanchez Mendieta
  */
-public class Taller3 {
+public class Workshop3 {
     
     public static void main(String[] args) {        
         // Building songs via Song class objects
